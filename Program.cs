@@ -19,7 +19,7 @@ namespace _100den_buyuk_sayı_gırıp_1den_baslayarak_yazdırma
                 
             }
             Console.ReadLine();
-
+            // 100 den küçük bir sayı girdiğimde döngüye girip yazdırıyor, uyarı vermesi gerekirdi
         }
     }
 }
